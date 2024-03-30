@@ -1,6 +1,6 @@
 body {
-    margin: 0;
     font-family: Arial, sans-serif;
+    width: 100%
 }
 
 header {
@@ -75,7 +75,7 @@ a:link {
     padding-left: 19px;
     padding-right: 19px;
     min-height: 330px;
-    max-width: 330px;
+    min-width: 330px;
     margin-bottom: 15px;
     transition: ease all .2s;
     border: #333;
